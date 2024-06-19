@@ -1,5 +1,0 @@
-<library path="lib/libmulti_prm_global_planner">
-  <class name="MULTI_PRM_planner/MultiPRMPlannerROS" type="MULTI_PRM_planner::MultiPRMPlannerROS" base_class_type="nav_core::BaseGlobalPlanner">
-    <description>This is prm Global Planner Plugin by Rafael Barreto.</description>
-  </class>
-</library>

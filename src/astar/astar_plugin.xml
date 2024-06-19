@@ -1,5 +1,0 @@
-<library path="lib/libastar">
-  <class name="Astar_planner/AstarPlannerROS" type="Astar_planner::AstarPlannerROS" base_class_type="nav_core::BaseGlobalPlanner">
-    <description>This is aStar Global Planner Plugin.</description>
-  </class>
-</library>
